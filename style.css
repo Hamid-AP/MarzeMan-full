@@ -1,0 +1,13 @@
+
+body {
+    font-family: sans-serif;
+    direction: rtl;
+    text-align: center;
+    background-color: #f0f8ff;
+    padding: 20px;
+}
+
+#listener-img {
+    width: 150px;
+    margin-top: 20px;
+}
